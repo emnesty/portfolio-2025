@@ -92,10 +92,14 @@ export default function About() {
               actions.
             </p>
             <p>
-              I’ve also been taking my first steps into Web Development. In the
-              future, my ultimate goal is to deliver a complete experience of
-              Design and Frontend Development that generates results and
-              positively impacts people's lives.
+              I&apos;ve also been taking my first steps into Web Development. In
+              the future, my ultimate goal is to deliver a complete experience
+              of Design and Frontend Development that generates results and
+              positively impacts people&apos;s lives.
+            </p>
+            <p>
+              It&apos;s important to understand the company&apos;s mission and
+              values.
             </p>
           </div>
         </div>
