@@ -48,8 +48,8 @@ export default function Uses() {
       <div className="space-y-20">
         <ToolsSection title="Workstation">
           <Tool title="16” MacBook Pro, M3 Pro, 16GB RAM (2024)">
-            My first personal MacBook is this 16-inch model, and Apple's M3 chip
-            is sensational. It makes all daily tasks, from design to
+            My first personal MacBook is this 16-inch model, and Apple&apos;s M3
+            chip is sensational. It makes all daily tasks, from design to
             development, feel effortless.
           </Tool>
           <Tool title="Apple Magic Keyboard">
@@ -58,14 +58,14 @@ export default function Uses() {
             backlighting, but the build quality is simply outstanding.
           </Tool>
           <Tool title="Shure MV7+">
-            I've been using the Shure MV7+ for several months now, and it's a
-            fantastic microphone for recording podcasts and videos.
+            I&apos;ve been using the Shure MV7+ for several months now, and
+            it&apos;s a fantastic microphone for recording podcasts and videos.
           </Tool>
         </ToolsSection>
         <ToolsSection title="Development tools">
           <Tool title="Cursor">
-            I use Cursor Pro for web development, and it’s fantastic. With the
-            help of AI features, everything becomes more practical and
+            I use Cursor Pro for web development, and it&apos;s fantastic. With
+            the help of AI features, everything becomes more practical and
             effortless.
           </Tool>
         </ToolsSection>
@@ -77,7 +77,8 @@ export default function Uses() {
           </Tool>
           <Tool title="Lucidchart">
             I use Lucidchart to create diagrams and flowcharts for my projects.
-            It's a great tool for visualizing complex systems and processes.
+            It&apos;s a great tool for visualizing complex systems and
+            processes.
           </Tool>
         </ToolsSection>
       </div>
