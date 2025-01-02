@@ -14,10 +14,8 @@ import {
 import logoLinx from '@/images/logos/linx.svg'
 import logoTsystems from '@/images/logos/tsystems.svg'
 import logoAmbev from '@/images/logos/ambev.svg'
-import logoStarbucks from '@/images/logos/starbucks.svg'
 import { type ArticleWithSlug, getAllArticles } from '@/lib/articles'
 import { formatDate } from '@/lib/formatDate'
-import { Testimonials } from '@/components/Testimonials'
 
 function MailIcon(props: React.ComponentPropsWithoutRef<'svg'>) {
   return (
